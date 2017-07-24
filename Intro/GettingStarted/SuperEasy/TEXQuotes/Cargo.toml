@@ -1,0 +1,6 @@
+[package]
+name = "TEXQuotes"
+version = "0.1.0"
+authors = ["Andres Gonzalez <andresgl@live.com>"]
+
+[dependencies]
